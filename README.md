@@ -23,7 +23,7 @@ Read different usecase of Mapbox tiling: https://blog.mapbox.com/introducing-map
 Using Libraries to Identify Objects(mAP (mean Average Precision))
 https://github.com/Cartucho/mAP
 
-n interactive map enabling us to pin and share pictures of places we've visited together.
+Interactive map enabling us to pin and share pictures of places we've visited together.
 https://github.com/JuditKaramazov/TakeYouThere
 
 https://github.com/anvaka/map-of-github
